@@ -42,4 +42,4 @@
 
     <include layout="@layout/content_recipe" android:id="@+id/recipe_view"/>
 
-</android.support.design.widget.Coo rdinatorLayout>
+</android.support.design.widget.CoordinatorLayout>
